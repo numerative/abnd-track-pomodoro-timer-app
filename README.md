@@ -1,4 +1,7 @@
 # Pomodoro - A Productivity Timer App
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c091e515a734abba1b4fa08a92b623a)](https://app.codacy.com/app/numerative/abnd-track-pomodoro-timer-app?utm_source=github.com&utm_medium=referral&utm_content=numerative/abnd-track-pomodoro-timer-app&utm_campaign=Badge_Grade_Dashboard)
+
 ## Google India Scholar Collaborative Project- ABND Track Phase 2
 
 _The most important aspect of collaborative project is to get everyone involved, and this idea is simple enough for everyone to contribute to, tweak - and maybe even have some fun while doing it._
